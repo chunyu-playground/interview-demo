@@ -2,7 +2,7 @@
 marp: true
 ---
 
-![bg left:40% 80%]()
+![bg left:40% 100%](https://raw.githubusercontent.com/chunyuc1124/interview-demo/refs/heads/main/images/cover.jpg)
 
 # **Self Introduction and Team Up with GitHub**
 
