@@ -41,3 +41,17 @@ Community Engagement on GitHub
 
 ---
 
+# Very Brief Introduction to GitHub
+
+- More than just a repository for teams
+    - Software project management
+    - Workflow automation (build, deliver, and maintain = CI/CD)
+- Social network built for all developers
+    - Meet great developers and tech evangelists with your favorite projects
+    - Contribute your efforts to make the community bright and thrive
+- Knowledge base for every learner
+    - Online documnetation for projects
+    - Learning material shared by experienced users
+
+---
+
