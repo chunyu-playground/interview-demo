@@ -17,3 +17,17 @@ Chun-Yu Chen (Jason)
     - Think Big Postgraduate Award (Scholarship) Recipient
 - National Yang-Ming University – Genome Sciences (2017, MRes)
 - National Chung Hsing University – Biotechnoloy (2015, BSc)
+
+---
+
+# Professional Experience
+
+- Application Engineer – Allxon (09/2023 – 10/2024)
+    - Establish partnerships with [ngrok](https://www.allxon.com/plugin-station-ngrok) and [portainer.io](https://www.allxon.com/plugin-station-portainer-business-edition-plugin)
+    - Advocate and support Allxon Octo SDK
+    - Pre-sale demo and post-sale technical support for Allxon solutions
+    - Prepare demo and training materials for members, customers, and partners
+    - Research on Nvidia Jetson series technology (BSP update, OTA deploy, JPS)
+- Software Engineer (C++) – SysJust (11/2021 – 08/2023)
+- Bioinformatics Engineer – ACT Genomics (02/2019 – 09/2020)
+    
