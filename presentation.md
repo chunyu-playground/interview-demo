@@ -4,7 +4,7 @@ marp: true
 
 ![bg left:40% 100%](https://raw.githubusercontent.com/chunyuc1124/interview-demo/refs/heads/main/images/cover.jpg)
 
-# **Self Introduction and Team Up with GitHub**
+# **Self Introduction**
 
 Chun-Yu Chen (Jason)
 2024.11.05
@@ -30,4 +30,14 @@ Chun-Yu Chen (Jason)
     - Research on Nvidia Jetson series technology (BSP update, OTA deploy, JPS)
 - Software Engineer (C++) – SysJust (11/2021 – 08/2023)
 - Bioinformatics Engineer – ACT Genomics (02/2019 – 09/2020)
-    
+
+---
+
+![bg left:40% 100%](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)
+
+# **Team Up with GitHub**
+Effective Teamworking and 
+Community Engagement on GitHub
+
+---
+
