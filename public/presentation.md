@@ -62,7 +62,7 @@ Community Engagement on GitHub
 - Best practices:
     - Add a README file (a description of the repository)
     - Add .gitgnore (to exclude files that should not be stored in a repository)
-    - Choose and review license (to clarify how others can use your work))
+    - Choose and review license (to clarify how others can use your work)
 
 ---
 
@@ -101,3 +101,20 @@ Community Engagement on GitHub
     - Closed
 - Teams can post announcements, gather feedback, and make decisions
 - Visitors and contributors can ask questions, provide answers, and mark solutions
+
+---
+
+# Automated Workflows with GitHub Actions
+
+- GitHub Actions = Runner + YAML Script
+    - Runner: Virtual machines (with various OS options) running on GitHub cloud
+    - YAML Script: Configuration file that defines your workflow
+- Workflow triggers
+    - Event (e.g., push, pull request)
+    - Schedule
+    - Repository dispatch (via GitHub RestAPI)
+- Example: Automated Presentation Slide Generation
+
+---
+
+# Let's see a demo on GitHub! :v: <!--fit-->
