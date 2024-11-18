@@ -53,7 +53,7 @@ Chun-Yu Chen (Jason)
     - **Discussions**: Facilitate team conversations
 - Public vs. Private Repositories:
     - **Public**: Accessible to everyone on the internet
-    - **Private**: Accessible only to you, invited collaborators, or specific org. members
+    - **Private**: Accessible only to you, invited collaborators, or organization members
     - Permissions and visibility settings apply to the entire repository, including code, issues, and the wiki
 
 ---
@@ -75,25 +75,16 @@ Chun-Yu Chen (Jason)
 # How to Collaborate with External Collabrators
 
 - **Join an Organization**
-    - **As Members**: Collaborators are added to the org. and assigned to teams
+    - **As Members**: Collaborators are added to the orgnization (teams) 
+        - Permissions can be adjusted for all repositories a team has access to
         - Ideal for long-term collaborators requiring access to multiple repositories
-    - **As Outside Collaborators**: Collaborators are added directly to specific repositories
-        - Best for occasional contributors working on a single repository
+    - **As Outside Collaborators**: Collaborators are added  to specific repositories
+        - Have no visibility into the broader organization or other repositories
+        - Best for temporary or repository-specific access
 - **Repository-Level Collaboration**
-    - Useful for managing small projects or repositories with specific access needs
-- **Create a Sibling Organization**
-    - Establish a separate org. for external collaborators to manage access independently
+    - The access level is the same as that of outside collaborators
+    - Offers flexibility for **individual** collaboration
 
----
-
-# Comparing Permission Levels
-
-
-| **Permission**    | **Team Members**                        | **Outside Collaborators**           | **Repository-Level Contributors**   |
-|--------------------|-----------------------------------------|--------------------------------------|--------------------------------------|
-| **Code**          | Access depends on team role (**R/W**) | Specific repository access (**R/W**) | Same as outside collaborators.      |
-| **Wiki**          | View/edit based on repository settings | View/edit in invited repositories.  | Same as outside collaborators      |
-| **Discussions**   | Participate in all accessible repositories   | Participate in invited repositories | Same as outside collaborators      |
 ---
 
 # Let's see a demo on GitHub! :v: <!--fit-->
