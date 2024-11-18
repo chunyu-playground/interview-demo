@@ -74,16 +74,14 @@ Chun-Yu Chen (Jason)
 
 # How to Collaborate with External Collabrators
 
-- **Join an Organization**
-    - **As Members**: Collaborators are added to the orgnization (teams) 
-        - Permissions can be adjusted for all repositories a team has access to
-        - Ideal for long-term collaborators requiring access to multiple repositories
-    - **As Outside Collaborators**: Collaborators are added  to specific repositories
-        - Have no visibility into the broader organization or other repositories
-        - Best for temporary or repository-specific access
-- **Repository-Level Collaboration**
-    - The access level is the same as that of outside collaborators
-    - Offers flexibility for **individual** collaboration
+- **Join an organization as members**
+    - Collaborators are added to the orgnization (teams) 
+    - Permissions can be adjusted for all repositories a team has access to
+    - Ideal for long-term collaborators requiring access to multiple repositories
+- **Join repositories as outside collaborators**
+    - Collaborators are added  to specific repositories
+    - Have no visibility into the broader organization or other repositories
+    - Best for temporary or repository-specific access
 
 ---
 
