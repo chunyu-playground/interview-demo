@@ -65,7 +65,7 @@ Chun-Yu Chen (Jason)
 - Permissions are assigned based on roles:
     - **Owner**: Full control over the organization
     - **Member**: Limited access based on assigned permissions
-    - **Outside Collaborator**: Access to specific repositories without org. membership
+    - **Outside Collaborator**: Access to specific repositories without membership
 - **Teams**: Sub-groups of members within an organization
     - Control repository access levels (admin, read, or write)
     - Enable organization members to notify the entire team efficiently
